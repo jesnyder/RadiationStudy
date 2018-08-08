@@ -1,0 +1,15 @@
+Cells measured, diluted to a target of 1*10^6 cells/mL in culture media. Dilutions prepared using serial dilutions, moving 0.3 mL to a second well, then adding 9 * 0.3 mL media, swirling plate, then again diluting. 
+
+Specimen name, Description
+6A, Target cell density 1*10^6 cells/mL, A side of counter chip
+6B, Target cell density 1*10^6 cells/mL, B side of counter chip
+5A, Target cell density 1*10^5 cells/mL, A side of counter chip
+5B, Target cell density 1*10^5 cells/mL, B side of counter chip
+4A, Target cell density 1*10^4 cells/mL, A side of counter chip
+3A, Target cell density 1*10^3 cells/mL, A side of counter chip
+2A, Target cell density 1*10^2 cells/mL, A side of counter chip
+1A, Target cell density 1*10^1 cells/mL, A side of counter chip
+4B, Target cell density 1*10^4 cells/mL, B side of counter chip
+3B, Target cell density 1*10^3 cells/mL, B side of counter chip
+2B, Target cell density 1*10^2 cells/mL, B side of counter chip
+1B, Target cell density 1*10^1 cells/mL, B side of counter chip
