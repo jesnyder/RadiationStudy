@@ -1,0 +1,9 @@
+Loadstar Sensors SensorVUE - Log File
+Units for M3-17576:,lbf
+Units for Peak (M3-17576):,lbf
+Units for Low (M3-17576):,lbf
+Logging Interval:,0.05 sec  (20 Hz)
+--------------------------------------------------------------------------------
+*** Use custom format 'hh:mm:ss.000' in Microsoft Excel to correctly display the time stamp in milliseconds. ***
+------------------------------------------------------------------------------------------------------------------------
+Time,Elapsed Time(sec),M3-17576,Peak (M3-17576),Low (M3-17576),
